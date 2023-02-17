@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... vue.js
-- 🌱 I’m currently learning ... nuxt.js
+- 🔭 I’m currently working on ... JavaScript, VueJS, NuxtJS
+- 🌱 I’m currently learning ... Dart, Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
